@@ -1,4 +1,4 @@
-module github.com/grafana/xk6-kubernetes
+module github.com/methodsman/xk6-kubernetes
 
 go 1.21
 
